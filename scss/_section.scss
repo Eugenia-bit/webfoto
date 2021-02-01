@@ -1,0 +1,22 @@
+div {
+  p {
+    width:690px;
+    height:72px;
+  }
+}
+
+* { 
+  margin:0;
+  padding:0;
+}
+
+footer  {    
+  width:auto;
+  height:100px;
+  display:flex;
+  justify-content:flex-end;
+  align-items:flex-end;
+  background:#EB9207;
+  text-align:left;
+
+}

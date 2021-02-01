@@ -1,0 +1,121 @@
+
+@import "header";
+@import "section";
+@import "img";
+@import "datos";
+
+
+.contenedor_3 {
+	max-width: 1000px;
+	width: 90%;
+	margin: 0 auto;
+}
+
+
+.card {  
+	background: #FFF;
+	border-radius: 15px;
+	padding: 20px;
+	display: flex;
+	position: relative;
+	margin-bottom: 50px;
+}
+
+
+* { 
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: Roboto;
+}
+
+
+
+// pie de pagina 
+
+footer { 
+    width:100%;
+    background:#00AD97; 
+    color: white;
+}    
+
+.container-footer-all { 
+	width:100%;
+	max-width:1200px;
+	margin:auto; 
+}  
+
+.container-body {
+
+     display: flex;
+}  
+
+.colum1 {
+    max-width:400px;
+}
+ 
+.colum1 {
+	h1{
+		font-size:20px;
+		}
+		}
+.colum1 {
+	p { 
+		font-size:14px;
+		color:#C7C7C7;
+		margin-top:20px;
+     }
+      }
+
+
+.row {
+	ul{
+
+	li {
+		i { 
+			width:36px;
+			height:36px;
+	 }
+	   }
+	     }
+	      }
+
+.row {
+	li {
+		list-style-type:none;
+      span {
+         	i {
+	display:block;
+	line-height:60px;
+}
+ }
+  }
+   }
+
+.row {
+	label {
+
+	margin-top:10px;
+	margin-left:20px;
+	color: #C7C7C7;
+	}
+	 }
+
+.colum3 {
+	max-width:4000px;
+     } 
+
+.colum3 {
+ h1 {
+
+ font-size:22px;
+  
+ }
+  }
+
+.row2 {
+margin-top:20px;
+  }
+
+
+
